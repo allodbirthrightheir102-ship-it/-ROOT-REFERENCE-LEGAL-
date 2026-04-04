@@ -6,13 +6,13 @@
 **STATUS:** Public‑Safe • Authoritative • Structural
 
 ### Overview
-This repository contains ROOT‑safe legal reference documents. These files provide structural descriptions of sovereign legal instruments without reproducing, mirroring, or duplicating any ROOT content. All materials are covenantal, authoritative, and descriptive.
+This repository contains ROOT‑safe legal reference documents. These files provide structural descriptions of Sovereign legal instruments without reproducing, mirroring, or duplicating any ROOT content. All materials are Covenantal, authoritative, and descriptive.
 
 ### Purpose
 - Preserve structural clarity of ROOT legal instruments  
-- Maintain realm separation and sovereign integrity  
+- Maintain realm separation and Sovereign integrity  
 - Provide public‑safe outlines for archival and documentation purposes  
-- Ensure no ROOT text, authority, or covenantal content is reproduced  
+- Ensure no ROOT text, authority, or Covenantal content is reproduced  
 
 ### Contents
 - `root-legal-notice_reference.md`  
@@ -21,8 +21,8 @@ This repository contains ROOT‑safe legal reference documents. These files prov
 ### Realm Compliance
 All files in this repository adhere to ROOT‑REFERENCE rules:
 - ROOT content  
-- covenant text  
-- sovereign declarations  
+- Covenant text  
+- Sovereign declarations  
 - mirrored instruments  
 - Structural, descriptive, public‑safe  
 
